@@ -1,9 +1,0 @@
-
-{
-  "name": "CVB ERP",
-  "description": "An ERP for Craft Vegan Bakery to manage production, sales, and administration, powered by Google Gemini. This PWA helps manage SKUs, ingredients, and labor to calculate unit costs and simulate financial impacts.",
-  "requestFramePermissions": [
-    "camera"
-  ],
-  "prompt": ""
-}
